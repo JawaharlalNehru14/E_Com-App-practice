@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Pizza",
+    "amount": 299,
+    "shop": "Pizza Hut",
+    "foodtype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Pizza",
+    "amount": 450,
+    "shop": "Domino's",
+    "foodtype": "Burger",
+    "pic": "https://www.app.tutorjoes.in/img/food/90.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veg Sandwich",
+    "amount": 350,
+    "shop": "Subway",
+    "foodtype": "Sandwich",
+    "pic": "https://www.app.tutorjoes.in/img/food/91.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cofee",
+    "amount": 400,
+    "shop": "McDonald's",
+    "foodtype": "Fries",
+    "pic": "https://www.app.tutorjoes.in/img/food/92.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sapadu",
+    "amount": 500,
+    "shop": "Burger King",
+    "foodtype": "Burger",
+    "pic": "https://www.app.tutorjoes.in/img/food/93.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Briyani",
+    "amount": 299,
+    "shop": "KFC",
+    "foodtype": "Chicken",
+    "pic": "https://www.app.tutorjoes.in/img/food/94.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Parota",
+    "amount": 450,
+    "shop": "Wendy's",
+    "foodtype": "Salad",
+    "pic": "https://www.app.tutorjoes.in/img/food/95.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lemon Soda",
+    "amount": 600,
+    "shop": "Taco Bell",
+    "foodtype": "Taco",
+    "pic": "https://www.app.tutorjoes.in/img/food/96.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bread Omlete",
+    "amount": 350,
+    "shop": "Five Guys",
+    "foodtype": "Hotdog",
+    "pic": "https://www.app.tutorjoes.in/img/food/97.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ice Cream",
+    "amount": 550,
+    "shop": "Panda Express",
+    "foodtype": "Noodles",
+    "pic": "https://www.app.tutorjoes.in/img/food/98.jpg"
+  }
+]
