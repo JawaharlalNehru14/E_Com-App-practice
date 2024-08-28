@@ -12,7 +12,7 @@ const [cart,setCart] = useState([])
 
   return (
     <>
-   <BrowserRouter basename='/E_Com-App practice'>
+   <BrowserRouter basename='/E_Com-App-practice'>
       <Header cart={cart} />
       <div className='container'>
         <Routes>
